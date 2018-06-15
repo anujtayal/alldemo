@@ -1,0 +1,23 @@
+{
+  "name": "@anujtayal/allscopelibrdemo",
+  "version": "0.0.5",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/anujtayal-allscopelibrdemo.umd.js",
+  "module": "fesm5/anujtayal-allscopelibrdemo.js",
+  "es2015": "fesm2015/anujtayal-allscopelibrdemo.js",
+  "esm5": "esm5/anujtayal-allscopelibrdemo.js",
+  "esm2015": "esm2015/anujtayal-allscopelibrdemo.js",
+  "fesm5": "fesm5/anujtayal-allscopelibrdemo.js",
+  "fesm2015": "fesm2015/anujtayal-allscopelibrdemo.js",
+  "typings": "anujtayal-allscopelibrdemo.d.ts",
+  "metadata": "anujtayal-allscopelibrdemo.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0",
+    "@anujtayal/secscopelibrdemo": "^0.0.1",
+    "@anujtayal/firscopelibrdemo": "^0.0.1"
+  }
+}
